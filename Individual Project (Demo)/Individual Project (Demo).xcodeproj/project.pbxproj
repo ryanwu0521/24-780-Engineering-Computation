@@ -1,0 +1,385 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		DD62A05C2AEB2BA60020756A /* ysglfontdata.c in Sources */ = {isa = PBXBuildFile; fileRef = DD62A05A2AEB2BA60020756A /* ysglfontdata.c */; };
+		DD62A0812AEB34B00020756A /* demo_weihuanw.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DD62A0802AEB34B00020756A /* demo_weihuanw.cpp */; };
+		DD62A0882AEB39FE0020756A /* DrawingUtilNG.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DD62A0862AEB39FE0020756A /* DrawingUtilNG.cpp */; };
+		DD62A0892AEB39FE0020756A /* GraphicFont.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DD62A0872AEB39FE0020756A /* GraphicFont.cpp */; };
+		DD62A08B2AEB884C0020756A /* GLUT.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DD62A08A2AEB884C0020756A /* GLUT.framework */; };
+		DD7E65272AE084DB00DA97D2 /* fssimplewindowobjc.m in Sources */ = {isa = PBXBuildFile; fileRef = DD7E65242AE084DB00DA97D2 /* fssimplewindowobjc.m */; };
+		DD7E65282AE084DB00DA97D2 /* fssimplewindowcpp.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DD7E65262AE084DB00DA97D2 /* fssimplewindowcpp.cpp */; };
+		DD7E652B2AE0853500DA97D2 /* OpenGL.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DD7E652A2AE0853500DA97D2 /* OpenGL.framework */; };
+		DD7E652D2AE0853A00DA97D2 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DD7E652C2AE0853A00DA97D2 /* Cocoa.framework */; };
+		DD7E65312AE08AC700DA97D2 /* yspng.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DD7E652F2AE08AC700DA97D2 /* yspng.cpp */; };
+		DD8297332AE72CE000391B4D /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DD8297322AE72CE000391B4D /* AVFoundation.framework */; };
+		DD8297382AE72D0400391B4D /* yssimplesound_macosx_objc.m in Sources */ = {isa = PBXBuildFile; fileRef = DD8297342AE72D0400391B4D /* yssimplesound_macosx_objc.m */; };
+		DD82973A2AE72D0400391B4D /* yssimplesound.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DD8297362AE72D0400391B4D /* yssimplesound.cpp */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		DD7E65152AE0848B00DA97D2 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		DD62A0522AE9D7450020756A /* fssimplewindow.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = fssimplewindow.h; sourceTree = "<group>"; };
+		DD62A0572AEA1FDC0020756A /* window_error.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = window_error.wav; sourceTree = "<group>"; };
+		DD62A05A2AEB2BA60020756A /* ysglfontdata.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = ysglfontdata.c; sourceTree = "<group>"; };
+		DD62A05B2AEB2BA60020756A /* ysglfontdata.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ysglfontdata.h; sourceTree = "<group>"; };
+		DD62A0802AEB34B00020756A /* demo_weihuanw.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = demo_weihuanw.cpp; sourceTree = "<group>"; };
+		DD62A0822AEB39FE0020756A /* TimesNewRomanFont01.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = TimesNewRomanFont01.txt; sourceTree = "<group>"; };
+		DD62A0832AEB39FE0020756A /* DrawingUtilNG.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DrawingUtilNG.h; sourceTree = "<group>"; };
+		DD62A0842AEB39FE0020756A /* TimesNewRomanFont01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TimesNewRomanFont01.png; sourceTree = "<group>"; };
+		DD62A0852AEB39FE0020756A /* GraphicFont.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GraphicFont.h; sourceTree = "<group>"; };
+		DD62A0862AEB39FE0020756A /* DrawingUtilNG.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = DrawingUtilNG.cpp; sourceTree = "<group>"; };
+		DD62A0872AEB39FE0020756A /* GraphicFont.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = GraphicFont.cpp; sourceTree = "<group>"; };
+		DD62A08A2AEB884C0020756A /* GLUT.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GLUT.framework; path = System/Library/Frameworks/GLUT.framework; sourceTree = SDKROOT; };
+		DD62A08C2AEB92620020756A /* ComicSansFont01.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = ComicSansFont01.txt; path = ../../../../Downloads/GraphicFont_ng5/GraphicFont/ComicSansFont01.txt; sourceTree = "<group>"; };
+		DD62A08D2AEB92620020756A /* ComicSansFont01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ComicSansFont01.png; path = ../../../../Downloads/GraphicFont_ng5/GraphicFont/ComicSansFont01.png; sourceTree = "<group>"; };
+		DD62A08E2AEE25C20020756A /* count_down.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = count_down.wav; path = ../../../../Downloads/count_down.wav; sourceTree = "<group>"; };
+		DD62A08F2AEE2DB20020756A /* thank_you.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = thank_you.wav; sourceTree = "<group>"; };
+		DD62A0902AEE2F430020756A /* halloween_theme.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = halloween_theme.wav; sourceTree = "<group>"; };
+		DD62A0912AEE30280020756A /* hit_wall.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = hit_wall.wav; sourceTree = "<group>"; };
+		DD62A0922AEE34760020756A /* ImpactFont01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ImpactFont01.png; sourceTree = "<group>"; };
+		DD62A0932AEE34760020756A /* ImpactFont01.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ImpactFont01.txt; sourceTree = "<group>"; };
+		DD62A0962AEE37D40020756A /* pumpkin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pumpkin.png; sourceTree = "<group>"; };
+		DD62A0972AEE37D40020756A /* ghost.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ghost.png; sourceTree = "<group>"; };
+		DD62A0982AEED7950020756A /* dvd_logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dvd_logo.png; sourceTree = "<group>"; };
+		DD7E65172AE0848B00DA97D2 /* Individual Project (Demo) */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Individual Project (Demo)"; sourceTree = BUILT_PRODUCTS_DIR; };
+		DD7E65242AE084DB00DA97D2 /* fssimplewindowobjc.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = fssimplewindowobjc.m; sourceTree = "<group>"; };
+		DD7E65262AE084DB00DA97D2 /* fssimplewindowcpp.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = fssimplewindowcpp.cpp; sourceTree = "<group>"; };
+		DD7E652A2AE0853500DA97D2 /* OpenGL.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGL.framework; path = System/Library/Frameworks/OpenGL.framework; sourceTree = SDKROOT; };
+		DD7E652C2AE0853A00DA97D2 /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
+		DD7E652F2AE08AC700DA97D2 /* yspng.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = yspng.cpp; sourceTree = "<group>"; };
+		DD7E65302AE08AC700DA97D2 /* yspng.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = yspng.h; sourceTree = "<group>"; };
+		DD8297322AE72CE000391B4D /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		DD8297342AE72D0400391B4D /* yssimplesound_macosx_objc.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = yssimplesound_macosx_objc.m; sourceTree = "<group>"; };
+		DD8297362AE72D0400391B4D /* yssimplesound.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = yssimplesound.cpp; sourceTree = "<group>"; };
+		DD8297372AE72D0400391B4D /* yssimplesound.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = yssimplesound.h; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		DD7E65142AE0848B00DA97D2 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DD7E652D2AE0853A00DA97D2 /* Cocoa.framework in Frameworks */,
+				DD7E652B2AE0853500DA97D2 /* OpenGL.framework in Frameworks */,
+				DD62A08B2AEB884C0020756A /* GLUT.framework in Frameworks */,
+				DD8297332AE72CE000391B4D /* AVFoundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		DD7E650E2AE0848B00DA97D2 = {
+			isa = PBXGroup;
+			children = (
+				DD62A08D2AEB92620020756A /* ComicSansFont01.png */,
+				DD62A08C2AEB92620020756A /* ComicSansFont01.txt */,
+				DD62A08E2AEE25C20020756A /* count_down.wav */,
+				DD62A0862AEB39FE0020756A /* DrawingUtilNG.cpp */,
+				DD62A0832AEB39FE0020756A /* DrawingUtilNG.h */,
+				DD62A0982AEED7950020756A /* dvd_logo.png */,
+				DD7E65292AE0853500DA97D2 /* Frameworks */,
+				DD62A0522AE9D7450020756A /* fssimplewindow.h */,
+				DD7E65262AE084DB00DA97D2 /* fssimplewindowcpp.cpp */,
+				DD7E65242AE084DB00DA97D2 /* fssimplewindowobjc.m */,
+				DD62A0972AEE37D40020756A /* ghost.png */,
+				DD62A0872AEB39FE0020756A /* GraphicFont.cpp */,
+				DD62A0852AEB39FE0020756A /* GraphicFont.h */,
+				DD62A0902AEE2F430020756A /* halloween_theme.wav */,
+				DD62A0912AEE30280020756A /* hit_wall.wav */,
+				DD62A0922AEE34760020756A /* ImpactFont01.png */,
+				DD62A0932AEE34760020756A /* ImpactFont01.txt */,
+				DD7E65192AE0848B00DA97D2 /* Individual Project (Demo) */,
+				DD7E65182AE0848B00DA97D2 /* Products */,
+				DD62A0962AEE37D40020756A /* pumpkin.png */,
+				DD62A08F2AEE2DB20020756A /* thank_you.wav */,
+				DD62A0842AEB39FE0020756A /* TimesNewRomanFont01.png */,
+				DD62A0822AEB39FE0020756A /* TimesNewRomanFont01.txt */,
+				DD62A0572AEA1FDC0020756A /* window_error.wav */,
+				DD62A05A2AEB2BA60020756A /* ysglfontdata.c */,
+				DD62A05B2AEB2BA60020756A /* ysglfontdata.h */,
+				DD7E652F2AE08AC700DA97D2 /* yspng.cpp */,
+				DD7E65302AE08AC700DA97D2 /* yspng.h */,
+				DD8297342AE72D0400391B4D /* yssimplesound_macosx_objc.m */,
+				DD8297362AE72D0400391B4D /* yssimplesound.cpp */,
+				DD8297372AE72D0400391B4D /* yssimplesound.h */,
+			);
+			sourceTree = "<group>";
+		};
+		DD7E65182AE0848B00DA97D2 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				DD7E65172AE0848B00DA97D2 /* Individual Project (Demo) */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		DD7E65192AE0848B00DA97D2 /* Individual Project (Demo) */ = {
+			isa = PBXGroup;
+			children = (
+				DD62A0802AEB34B00020756A /* demo_weihuanw.cpp */,
+			);
+			path = "Individual Project (Demo)";
+			sourceTree = "<group>";
+		};
+		DD7E65292AE0853500DA97D2 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				DD62A08A2AEB884C0020756A /* GLUT.framework */,
+				DD8297322AE72CE000391B4D /* AVFoundation.framework */,
+				DD7E652C2AE0853A00DA97D2 /* Cocoa.framework */,
+				DD7E652A2AE0853500DA97D2 /* OpenGL.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		DD7E65162AE0848B00DA97D2 /* Individual Project (Demo) */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = DD7E651E2AE0848B00DA97D2 /* Build configuration list for PBXNativeTarget "Individual Project (Demo)" */;
+			buildPhases = (
+				DD7E65132AE0848B00DA97D2 /* Sources */,
+				DD7E65142AE0848B00DA97D2 /* Frameworks */,
+				DD7E65152AE0848B00DA97D2 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Individual Project (Demo)";
+			productName = "Individual Project (Demo)";
+			productReference = DD7E65172AE0848B00DA97D2 /* Individual Project (Demo) */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		DD7E650F2AE0848B00DA97D2 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1500;
+				TargetAttributes = {
+					DD7E65162AE0848B00DA97D2 = {
+						CreatedOnToolsVersion = 15.0;
+					};
+				};
+			};
+			buildConfigurationList = DD7E65122AE0848B00DA97D2 /* Build configuration list for PBXProject "Individual Project (Demo)" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = DD7E650E2AE0848B00DA97D2;
+			productRefGroup = DD7E65182AE0848B00DA97D2 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				DD7E65162AE0848B00DA97D2 /* Individual Project (Demo) */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		DD7E65132AE0848B00DA97D2 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DD82973A2AE72D0400391B4D /* yssimplesound.cpp in Sources */,
+				DD62A0892AEB39FE0020756A /* GraphicFont.cpp in Sources */,
+				DD62A0882AEB39FE0020756A /* DrawingUtilNG.cpp in Sources */,
+				DD62A0812AEB34B00020756A /* demo_weihuanw.cpp in Sources */,
+				DD8297382AE72D0400391B4D /* yssimplesound_macosx_objc.m in Sources */,
+				DD7E65282AE084DB00DA97D2 /* fssimplewindowcpp.cpp in Sources */,
+				DD7E65272AE084DB00DA97D2 /* fssimplewindowobjc.m in Sources */,
+				DD62A05C2AEB2BA60020756A /* ysglfontdata.c in Sources */,
+				DD7E65312AE08AC700DA97D2 /* yspng.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		DD7E651C2AE0848B00DA97D2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 14.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		DD7E651D2AE0848B00DA97D2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 14.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		DD7E651F2AE0848B00DA97D2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 9B3HA6HKJ9;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		DD7E65202AE0848B00DA97D2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 9B3HA6HKJ9;
+				ENABLE_HARDENED_RUNTIME = YES;
+				"OTHER_LDFLAGS[arch=*]" = "-lyssimplesound";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		DD7E65122AE0848B00DA97D2 /* Build configuration list for PBXProject "Individual Project (Demo)" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DD7E651C2AE0848B00DA97D2 /* Debug */,
+				DD7E651D2AE0848B00DA97D2 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		DD7E651E2AE0848B00DA97D2 /* Build configuration list for PBXNativeTarget "Individual Project (Demo)" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DD7E651F2AE0848B00DA97D2 /* Debug */,
+				DD7E65202AE0848B00DA97D2 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = DD7E650F2AE0848B00DA97D2 /* Project object */;
+}
