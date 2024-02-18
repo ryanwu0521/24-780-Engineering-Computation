@@ -1,0 +1,16 @@
+﻿  wordCloud_main_weihuanw.cpp
+C:\Users\wxw52\Documents\24-780 E-Computation\PS09-Word Count\PS09-Word Count\wordCloud_main_weihuanw.cpp(43,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS09-Word Count\PS09-Word Count\wordCloud_main_weihuanw.cpp(106,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\wxw52\Documents\24-780 E-Computation\PS09-Word Count\PS09-Word Count\wordCloud_main_weihuanw.cpp(115,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS09-Word Count\PS09-Word Count\wordCloud_main_weihuanw.cpp(115,12): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS09-Word Count\PS09-Word Count\wordCloud_main_weihuanw.cpp(114,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS09-Word Count\PS09-Word Count\wordCloud_main_weihuanw.cpp(114,12): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS09-Word Count\PS09-Word Count\wordCloud_main_weihuanw.cpp(165,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS09-Word Count\PS09-Word Count\wordCloud_main_weihuanw.cpp(175,21): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\wxw52\Documents\24-780 E-Computation\PS09-Word Count\PS09-Word Count\wordCloud_main_weihuanw.cpp(178,21): warning C4305: '/=': truncation from 'double' to 'float'
+C:\Users\wxw52\Documents\24-780 E-Computation\PS09-Word Count\PS09-Word Count\wordCloud_main_weihuanw.cpp(205,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS09-Word Count\PS09-Word Count\wordCloud_main_weihuanw.cpp(205,14): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS09-Word Count\PS09-Word Count\wordCloud_main_weihuanw.cpp(204,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS09-Word Count\PS09-Word Count\wordCloud_main_weihuanw.cpp(204,14): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS09-Word Count\PS09-Word Count\wordCloud_main_weihuanw.cpp(263,13): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  PS09-Word Count.vcxproj -> C:\Users\wxw52\Documents\24-780 E-Computation\PS09-Word Count\x64\Debug\PS09-Word Count.exe
