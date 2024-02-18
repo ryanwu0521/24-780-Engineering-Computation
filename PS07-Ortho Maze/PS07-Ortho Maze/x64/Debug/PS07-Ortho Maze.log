@@ -1,0 +1,18 @@
+﻿  Entity.cpp
+C:\Users\wxw52\Downloads\ps07_orthoMaze_ng27(start)\ps07_orthoMaze_ng27\Entity.cpp(84,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\wxw52\Downloads\ps07_orthoMaze_ng27(start)\ps07_orthoMaze_ng27\Entity.cpp(85,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\wxw52\Downloads\ps07_orthoMaze_ng27(start)\ps07_orthoMaze_ng27\Entity.cpp(100,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\wxw52\Downloads\ps07_orthoMaze_ng27(start)\ps07_orthoMaze_ng27\Entity.cpp(101,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\wxw52\Downloads\ps07_orthoMaze_ng27(start)\ps07_orthoMaze_ng27\Entity.cpp(108,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\wxw52\Downloads\ps07_orthoMaze_ng27(start)\ps07_orthoMaze_ng27\Entity.cpp(109,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\wxw52\Downloads\ps07_orthoMaze_ng27(start)\ps07_orthoMaze_ng27\Entity.cpp(141,58): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\wxw52\Downloads\ps07_orthoMaze_ng27(start)\ps07_orthoMaze_ng27\Entity.cpp(142,58): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\wxw52\Downloads\ps07_orthoMaze_ng27(start)\ps07_orthoMaze_ng27\Entity.cpp(143,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\wxw52\Downloads\ps07_orthoMaze_ng27(start)\ps07_orthoMaze_ng27\Entity.cpp(143,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\wxw52\Downloads\ps07_orthoMaze_ng27(start)\ps07_orthoMaze_ng27\Entity.cpp(147,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\wxw52\Downloads\ps07_orthoMaze_ng27(start)\ps07_orthoMaze_ng27\Entity.cpp(147,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\wxw52\Downloads\ps07_orthoMaze_ng27(start)\ps07_orthoMaze_ng27\Entity.cpp(192,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\wxw52\Downloads\ps07_orthoMaze_ng27(start)\ps07_orthoMaze_ng27\Entity.cpp(193,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\wxw52\Downloads\ps07_orthoMaze_ng27(start)\ps07_orthoMaze_ng27\Entity.cpp(194,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\wxw52\Downloads\ps07_orthoMaze_ng27(start)\ps07_orthoMaze_ng27\Entity.cpp(215,7): warning C4101: 'neighborCell': unreferenced local variable
+  PS07-Ortho Maze.vcxproj -> C:\Users\wxw52\Documents\24-780 E-Computation\PS07-Ortho Maze\x64\Debug\PS07-Ortho Maze.exe

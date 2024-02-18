@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="..\..\..\..\Downloads\ps07_orthoMaze_ng27(start)\ps07_orthoMaze_ng27\gulp_x.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="..\..\..\..\Downloads\ps07_orthoMaze_ng27(start)\ps07_orthoMaze_ng27\click_x.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\..\Downloads\ps07_orthoMaze_ng27(start)\ps07_orthoMaze_ng27\GraphicFont.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Downloads\ps07_orthoMaze_ng27(start)\ps07_orthoMaze_ng27\MazeManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Downloads\ps07_orthoMaze_ng27(start)\ps07_orthoMaze_ng27\Maze.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Downloads\ps07_orthoMaze_ng27(start)\ps07_orthoMaze_ng27\StringPlus.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Downloads\ps07_orthoMaze_ng27(start)\ps07_orthoMaze_ng27\Entity.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Downloads\ps07_orthoMaze_ng27(start)\ps07_orthoMaze_ng27\mazeMain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Downloads\ps07_orthoMaze_ng27(start)\ps07_orthoMaze_ng27\DrawingUtilNG.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Downloads\ps07_orthoMaze_ng27(start)\ps07_orthoMaze_ng27\yssimplesound.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Downloads\ps07_orthoMaze_ng27(start)\ps07_orthoMaze_ng27\yssimplesound_dsound.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Downloads\ps07_orthoMaze_ng27(start)\ps07_orthoMaze_ng27\yspng.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Downloads\ps07_orthoMaze_ng27(start)\ps07_orthoMaze_ng27\ysglfontdata.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Downloads\ps07_orthoMaze_ng27(start)\ps07_orthoMaze_ng27\fssimplewindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\..\Downloads\ps07_orthoMaze_ng27(start)\ps07_orthoMaze_ng27\GraphicFont.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Downloads\ps07_orthoMaze_ng27(start)\ps07_orthoMaze_ng27\Maze.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Downloads\ps07_orthoMaze_ng27(start)\ps07_orthoMaze_ng27\Entity.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Downloads\ps07_orthoMaze_ng27(start)\ps07_orthoMaze_ng27\MazeManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Downloads\ps07_orthoMaze_ng27(start)\ps07_orthoMaze_ng27\StringPlus.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Downloads\ps07_orthoMaze_ng27(start)\ps07_orthoMaze_ng27\DrawingUtilNG.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Downloads\ps07_orthoMaze_ng27(start)\ps07_orthoMaze_ng27\yssimplesound.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Downloads\ps07_orthoMaze_ng27(start)\ps07_orthoMaze_ng27\yspng.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Downloads\ps07_orthoMaze_ng27(start)\ps07_orthoMaze_ng27\ysglfontdata.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Downloads\ps07_orthoMaze_ng27(start)\ps07_orthoMaze_ng27\fssimplewindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\..\..\..\Downloads\ps07_orthoMaze_ng27(start)\ps07_orthoMaze_ng27\ArialFont01.txt" />
+    <Text Include="..\..\..\..\Downloads\ps07_orthoMaze_ng27(start)\ps07_orthoMaze_ng27\CourierNewFont01.txt" />
+    <Text Include="..\..\..\..\Downloads\ps07_orthoMaze_ng27(start)\ps07_orthoMaze_ng27\OldEnglishFont01.txt" />
+    <Text Include="..\..\..\..\Downloads\ps07_orthoMaze_ng27(start)\ps07_orthoMaze_ng27\TimesNewRomanFont01.txt" />
+    <Text Include="..\..\..\..\Downloads\ps07_orthoMaze_ng27(start)\ps07_orthoMaze_ng27\JokermanFont01.txt" />
+    <Text Include="..\..\..\..\Downloads\ps07_orthoMaze_ng27(start)\ps07_orthoMaze_ng27\ComicSansFont01.txt" />
+    <Text Include="..\..\..\..\Downloads\ps07_orthoMaze_ng27(start)\ps07_orthoMaze_ng27\GaramondFont01.txt" />
+    <Text Include="..\..\..\..\Downloads\ps07_orthoMaze_ng27(start)\ps07_orthoMaze_ng27\ImpactFont01.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\..\..\Downloads\ps07_orthoMaze_ng27(start)\ps07_orthoMaze_ng27\ArialFont01.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Downloads\ps07_orthoMaze_ng27(start)\ps07_orthoMaze_ng27\CalibriFont01.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Downloads\ps07_orthoMaze_ng27(start)\ps07_orthoMaze_ng27\CourierNewFont01.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Downloads\ps07_orthoMaze_ng27(start)\ps07_orthoMaze_ng27\OldEnglishFont01.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Downloads\ps07_orthoMaze_ng27(start)\ps07_orthoMaze_ng27\TimesNewRomanFont01.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Downloads\ps07_orthoMaze_ng27(start)\ps07_orthoMaze_ng27\ComicSansFont01.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Downloads\ps07_orthoMaze_ng27(start)\ps07_orthoMaze_ng27\JokermanFont01.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Downloads\ps07_orthoMaze_ng27(start)\ps07_orthoMaze_ng27\GaramondFont01.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Downloads\ps07_orthoMaze_ng27(start)\ps07_orthoMaze_ng27\ImpactFont01.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\..\..\Downloads\ps07_orthoMaze_ng27(start)\ps07_orthoMaze_ng27\MazeA_10x10.map" />
+    <None Include="..\..\..\..\Downloads\ps07_orthoMaze_ng27(start)\ps07_orthoMaze_ng27\MazeB_20x20.map" />
+    <None Include="MazeC_20x20.map" />
+  </ItemGroup>
+</Project>
