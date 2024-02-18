@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "50318328-D435-48D8-B991-ACF4E7DF8CC0"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7974A9A9-2375-495D-83E6-BAB6ACF4D083"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PS03 Circle and Rectangels/ps03graphicBlocks_weihuanw.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "202"
+            endingLineNumber = "202"
+            landmarkName = "getUserInput(theItems)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "7974A9A9-2375-495D-83E6-BAB6ACF4D083 - 639934af72b2ee70"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "drawCircle(int, int, int, int, float, float, float, bool)"
+                  moduleName = "PS03 Circle and Rectangels"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ryanwu/Downloads/CMU/24-780%20E%20Computation%20/PS03%20Circle%20and%20Rectangels/PS03%20Circle%20and%20Rectangels/ps03graphicBlocks_weihuanw.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "200"
+                  endingLineNumber = "200"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "7974A9A9-2375-495D-83E6-BAB6ACF4D083 - 5be6dbe60184800c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "getUserInput(std::__1::vector&lt;GraphicalItem, std::__1::allocator&lt;GraphicalItem&gt;&gt;&amp;)"
+                  moduleName = "PS03 Circle and Rectangels"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ryanwu/Downloads/CMU/24-780%20E%20Computation%20/PS03%20Circle%20and%20Rectangels/PS03%20Circle%20and%20Rectangels/ps03graphicBlocks_weihuanw.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "200"
+                  endingLineNumber = "200"
+                  offsetFromSymbolStart = "2420">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "79705704-59FE-477D-810D-F9BEB12B0382"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PS03 Circle and Rectangels/ps03graphicBlocks_weihuanw.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "readItems(theItems, inFile)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "79705704-59FE-477D-810D-F9BEB12B0382 - e19c4e6ae60ae872"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "writeItems(std::__1::vector&lt;GraphicalItem, std::__1::allocator&lt;GraphicalItem&gt;&gt;&amp;, std::__1::basic_ofstream&lt;char, std::__1::char_traits&lt;char&gt;&gt;&amp;)"
+                  moduleName = "PS03 Circle and Rectangels"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ryanwu/Downloads/CMU/24-780%20E%20Computation%20/PS03%20Circle%20and%20Rectangels/PS03%20Circle%20and%20Rectangels/ps03graphicBlocks_weihuanw.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "79705704-59FE-477D-810D-F9BEB12B0382 - e52e8a201bd5b2ff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "readItems(std::__1::vector&lt;GraphicalItem, std::__1::allocator&lt;GraphicalItem&gt;&gt;&amp;, std::__1::basic_ifstream&lt;char, std::__1::char_traits&lt;char&gt;&gt;&amp;)"
+                  moduleName = "PS03 Circle and Rectangels"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ryanwu/Downloads/CMU/24-780%20E%20Computation%20/PS03%20Circle%20and%20Rectangels/PS03%20Circle%20and%20Rectangels/ps03graphicBlocks_weihuanw.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FF140CE8-DA14-4DD7-98C6-3F2C0ED2B81D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PS03 Circle and Rectangels/ps03graphicBlocks_weihuanw.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "276"
+            endingLineNumber = "276"
+            landmarkName = "main()"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "FF140CE8-DA14-4DD7-98C6-3F2C0ED2B81D - 5da051eb82c00ca5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "PS03 Circle and Rectangels"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ryanwu/Downloads/CMU/24-780%20E%20Computation%20/PS03%20Circle%20and%20Rectangels/PS03%20Circle%20and%20Rectangels/ps03graphicBlocks_weihuanw.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "276"
+                  endingLineNumber = "276"
+                  offsetFromSymbolStart = "260">
+               </Location>
+               <Location
+                  uuid = "FF140CE8-DA14-4DD7-98C6-3F2C0ED2B81D - 5da051eb82c00ca5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "PS03 Circle and Rectangels"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ryanwu/Downloads/CMU/24-780%20E%20Computation%20/PS03%20Circle%20and%20Rectangels/PS03%20Circle%20and%20Rectangels/ps03graphicBlocks_weihuanw.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "276"
+                  endingLineNumber = "276"
+                  offsetFromSymbolStart = "248">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6656BBB4-1804-4E84-A3FB-FA927EA3D0F4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PS03 Circle and Rectangels/ps03graphicBlocks_weihuanw.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "271"
+            endingLineNumber = "271"
+            landmarkName = "main()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
