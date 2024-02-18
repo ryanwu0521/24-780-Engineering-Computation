@@ -1,0 +1,145 @@
+﻿  ControlCollection.cpp
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\ControlCollection.h(48,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\ControlCollection.cpp(124,62): warning C4244: 'argument': conversion from 'unsigned __int64' to 'double', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\ControlCollection.cpp(126,62): warning C4244: 'argument': conversion from 'unsigned __int64' to 'double', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\ControlCollection.cpp(275,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\ControlCollection.cpp(275,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\ControlCollection.cpp(275,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\ControlCollection.cpp(302,56): warning C4244: 'argument': conversion from 'unsigned __int64' to 'double', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\ControlCollection.cpp(304,56): warning C4244: 'argument': conversion from 'unsigned __int64' to 'double', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\ControlCollection.cpp(306,26): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  DrawingUtilNG.cpp
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\DrawingUtilNG.cpp(27,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\DrawingUtilNG.cpp(84,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\DrawingUtilNG.cpp(85,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\DrawingUtilNG.cpp(86,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\DrawingUtilNG.cpp(95,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\DrawingUtilNG.cpp(96,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\DrawingUtilNG.cpp(103,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\DrawingUtilNG.cpp(115,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\DrawingUtilNG.cpp(116,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\DrawingUtilNG.cpp(132,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\DrawingUtilNG.cpp(133,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\DrawingUtilNG.cpp(135,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\DrawingUtilNG.cpp(136,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\DrawingUtilNG.cpp(122,10): warning C4101: 'prevX': unreferenced local variable
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\DrawingUtilNG.cpp(122,17): warning C4101: 'prevY': unreferenced local variable
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\DrawingUtilNG.cpp(188,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\DrawingUtilNG.cpp(243,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\DrawingUtilNG.cpp(268,7): warning C4804: '%': unsafe use of type 'bool' in operation
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\DrawingUtilNG.cpp(305,7): warning C4804: '%': unsafe use of type 'bool' in operation
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\DrawingUtilNG.cpp(487,45): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\DrawingUtilNG.cpp(620,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\DrawingUtilNG.cpp(624,29): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\DrawingUtilNG.cpp(627,29): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  fssimplewindow.cpp
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\fssimplewindow.cpp(946,68): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  GraphicFont.cpp
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\GraphicFont.cpp(26,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\GraphicFont.cpp(30,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\GraphicFont.cpp(147,55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\GraphicFont.cpp(148,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\GraphicFont.cpp(225,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\GraphicFont.cpp(226,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\GraphicFont.cpp(268,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\GraphicFont.cpp(269,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Line2D.cpp
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\Line2D.cpp(22,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\Line2D.cpp(23,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\Line2D.cpp(24,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\Line2D.cpp(63,9): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Shape2D.cpp
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\Shape2D.cpp(61,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\Shape2D.cpp(203,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\Shape2D.cpp(277,11): warning C4101: 'currPoint': unreferenced local variable
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\Shape2D.cpp(307,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\Shape2D.cpp(444,51): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\Shape2D.cpp(455,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\Shape2D.cpp(458,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\Shape2D.cpp(459,59): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\Shape2D.cpp(469,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\Shape2D.cpp(472,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\Shape2D.cpp(473,59): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ShapeManager.cpp
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\ControlCollection.h(48,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\ShapeManager.cpp(43,12): warning C4309: 'argument': truncation of constant value
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\ShapeManager.cpp(178,10): warning C4129: '<': unrecognized character escape sequence
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\ShapeManager.cpp(178,10): warning C4129: '>': unrecognized character escape sequence
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\ShapeManager.cpp(226,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\ShapeManager.cpp(227,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\ShapeManager.cpp(370,18): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\ShapeManager.cpp(372,18): warning C4305: '/=': truncation from 'double' to 'float'
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\ShapeManager.cpp(374,17): warning C4244: '*=': conversion from 'const _Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\ShapeManager.cpp(376,17): warning C4244: '/=': conversion from 'const _Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\ShapeManager.cpp(462,33): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\ShapeManager.cpp(464,34): warning C4305: '/=': truncation from 'double' to 'float'
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\ShapeManager.cpp(523,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\ShapeManager.cpp(548,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\ShapeManager.cpp(555,55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\ShapeManager.cpp(574,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\ShapeManager.cpp(574,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\ShapeManager.cpp(602,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  ShapeManagerMain.cpp
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\ControlCollection.h(48,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  StringPlus.cpp
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\StringPlus.cpp(77,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  yspng.cpp
+  yssimplesound.cpp
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\yssimplesound.cpp(461,22): warning C4244: '=': conversion from '__int64' to 'unsigned int', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\yssimplesound.cpp(496,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\yssimplesound.cpp(521,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\yssimplesound.cpp(545,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\yssimplesound.cpp(559,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\yssimplesound.cpp(601,56): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\yssimplesound.cpp(601,41): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\yssimplesound.cpp(608,38): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\yssimplesound.cpp(608,35): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\yssimplesound.cpp(609,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\yssimplesound.cpp(609,35): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\yssimplesound.cpp(618,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\yssimplesound.cpp(618,35): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\yssimplesound.cpp(619,38): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\yssimplesound.cpp(619,35): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\yssimplesound.cpp(620,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\yssimplesound.cpp(620,35): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\yssimplesound.cpp(621,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\yssimplesound.cpp(621,35): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\yssimplesound.cpp(655,15): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\yssimplesound.cpp(675,45): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\yssimplesound.cpp(675,69): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\yssimplesound.cpp(682,16): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\yssimplesound.cpp(701,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\yssimplesound.cpp(708,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\yssimplesound.cpp(732,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\yssimplesound.cpp(739,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\yssimplesound.cpp(771,52): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\yssimplesound.cpp(778,16): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\yssimplesound.cpp(954,14): warning C4244: '=': conversion from '__int64' to 'unsigned int', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\yssimplesound.cpp(1053,16): warning C4018: '<': signed/unsigned mismatch
+  yssimplesound_dsound.cpp
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\yssimplesound_dsound.cpp(104,34): warning C4311: 'type cast': pointer truncation from 'HWND' to 'int'
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\yssimplesound_dsound.cpp(104,34): warning C4302: 'type cast': truncation from 'HWND' to 'int'
+  Generating Code...
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\Shape2D.cpp(98): warning C4715: 'Shape2D::addPoint': not all control paths return a value
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\ControlCollection.cpp(210): warning C4715: 'ComboBox::getVal': not all control paths return a value
+  ysglfontdata.c
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\ysglfontdata.c(17140,24): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\ysglfontdata.c(17150,24): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\ysglfontdata.c(17389,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\ysglfontdata.c(17393,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\ysglfontdata.c(17393,60): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\ysglfontdata.c(17397,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\ysglfontdata.c(17417,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\ysglfontdata.c(17427,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\ysglfontdata.c(17446,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\ysglfontdata.c(17519,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\PS10-Shapes\ysglfontdata.c(17536,32): warning C4018: '<': signed/unsigned mismatch
+  PS10-Shapes.vcxproj -> C:\Users\wxw52\Documents\24-780 E-Computation\PS10-Shapes\x64\Debug\PS10-Shapes.exe
