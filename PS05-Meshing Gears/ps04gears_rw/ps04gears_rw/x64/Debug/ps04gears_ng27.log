@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (ps04gears_ng27.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  GearViewer.cpp
+C:\Users\wxw52\Documents\24-780 E-Computation\PS05\ps04gears_rw\ps04gears_rw\GearViewer.cpp(59,7): warning C4101: 'yesNo': unreferenced local variable
+  ps04gears_ng27.vcxproj -> C:\Users\wxw52\Documents\24-780 E-Computation\PS05\ps04gears_rw\x64\Debug\ps04gears_rw.exe
